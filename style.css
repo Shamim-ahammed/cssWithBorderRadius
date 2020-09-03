@@ -1,0 +1,133 @@
+
+
+body{
+    
+    background-image: url(istockphoto-1138395421-612x612.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.container{
+    display: flex;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: center;
+    margin-top: 5px;
+}
+.header{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 10px;
+    
+}
+.header_2{
+    display: flex;
+    justify-content: space-around;
+    margin-top: 5px;
+    
+}
+.div_A{
+    
+    height: 250px;
+    width: 500px;
+    background-color: green;
+    position: relative;
+    margin: 5px;    
+}
+.div_A_1{
+    
+    height: 200px;
+    width: 200px;
+    background-color: red;
+    margin: 20px;
+    margin-left: 130px;
+    border-radius: 100px;
+     
+}
+
+.div_B{
+    height: 210px;
+    width: 400px;
+    background-color:gainsboro;
+    border: 20px dotted green;
+    margin: 20px;    
+}
+.div_C{
+    height: 235px;
+    width: 495px;
+    background-color: brown;
+    margin: 5px;
+    border: 10px dashed blue;
+    border-radius: 20px;
+}
+h3{
+    color: white;
+
+    
+}
+
+.div_D{
+    height: 250px;
+    width: 400px;
+    background-color:blue;
+    margin: 20px;
+    border: 10px solid orange;
+    border-radius: 50px 50px 50px 50px;
+    
+}
+
+
+.div_E{
+    height: 250px;
+    width: 400px;
+    background-color:blue;
+    margin: 20px;
+    border: 10px solid orange;
+    border-radius: 100px 50px 100px 50px;
+    
+}
+.div_F{
+    height: 250px;
+    width: 400px;
+    background-color:blue;
+    margin: 5px;
+    border: 10px solid orange;
+    border-radius: 100% 100% 0% 0%;
+    
+}
+
+.div_G{
+    height: 250px;
+    width: 400px;
+    background-color:blue;
+    margin: 20px;
+    border: 10px solid orange;
+    border-radius: 100% 0% 100% 0%;   
+}
+
+.div_H{
+    height: 250px;
+    width: 400px;
+    background-color:blue;
+    margin: 20px;
+    border: 10px solid orange;
+    border-radius: 50% 50% 50% 50%;
+    
+}
+.div_I{
+    
+    height: 250px;
+    width: 400px;
+    background-color:rgba(255,255,255,255,0);
+    margin: 20px;
+    border: 10px solid orange;
+    border-radius: 100% 0% 0% 0%;
+
+    
+}
+
+.div_I p{
+    color: white;
+    margin-top: 130px;
+    margin-left: 100px;
+}
